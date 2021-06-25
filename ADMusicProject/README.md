@@ -2,5 +2,5 @@
 
 ##### Игра может проигрывать четыре мелоди по нажатии одной из четырёх кнопок:
 
-![alt text](//screen1.png)
-![alt text](//screen2.png)
+![alt text](screen1.png)
+![alt text](screen2.png)
